@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Khushi#123",
+    "database": "review_practical",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
